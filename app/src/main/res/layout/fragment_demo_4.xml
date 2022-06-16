@@ -13,7 +13,7 @@
         android:text="correct offset when container on scrolling"
         android:textSize="12sp"/>
 
-    <com.xw.samlpe.bubbleseekbar.ObservableScrollView
+    <com.xw.sample.bubbleseekbar.ObservableScrollView
         android:id="@+id/demo_4_obs_scroll_view"
         android:layout_width="match_parent"
         android:layout_height="120dp">
@@ -65,7 +65,7 @@
                 app:bsb_track_size="4dp"/>
 
         </LinearLayout>
-    </com.xw.samlpe.bubbleseekbar.ObservableScrollView>
+    </com.xw.sample.bubbleseekbar.ObservableScrollView>
 
     <TextView
         android:layout_width="wrap_content"
