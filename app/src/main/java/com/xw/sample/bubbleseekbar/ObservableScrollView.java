@@ -1,4 +1,4 @@
-package com.xw.samlpe.bubbleseekbar;
+package com.xw.sample.bubbleseekbar;
 
 import android.content.Context;
 import android.util.AttributeSet;
