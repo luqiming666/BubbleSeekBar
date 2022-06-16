@@ -15,9 +15,9 @@
 ![demo4](https://github.com/woxingxiao/BubbleSeekBar/blob/master/screenshot/demo4.gif)
 
 ## Download
-** forked verison (upgraded to use AndroidX?) and deliver via Jitpack.io ** 
+** forked version (upgraded to use AndroidX) and deliver via Jitpack.io ** 
 ```groovy
-implementation 'com.github.luqiming666:BubbleSeekBar:3.50'
+implementation 'com.github.luqiming666:BubbleSeekBar:3.51'
 ```
 
 The **LATEST_VERSION**: [![Download](https://api.bintray.com/packages/woxingxiao/maven/bubbleseekbar/images/download.svg)](https://bintray.com/woxingxiao/maven/bubbleseekbar/_latestVersion)
